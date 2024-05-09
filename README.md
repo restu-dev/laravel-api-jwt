@@ -2,6 +2,7 @@
 ## Laravel 8 API JWT
 - Laravel 8
 - PHP Version 7.4
+- tymon/jwt-auth
 
 ## Petunjuk Instalasi
 - Download / clone project
